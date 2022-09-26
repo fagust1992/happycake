@@ -65,8 +65,7 @@ const Contacto = () => {
             {errors.description && <span>{errors.description.message}</span>}
           </div>
         </div>
-        <button type="submit" value="submit">
-          {" "}
+        <button type="submit" value="submit" className="boton">
           Enviar
         </button>
       </form>

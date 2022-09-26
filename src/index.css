@@ -51,6 +51,9 @@ code {
     height: 300px;
   }
 }
+button {
+  background-color: rgb(209, 23, 100);
+}
 .footer {
   display: flex;
   justify-content: space-between;
